@@ -4,7 +4,7 @@
 # No external packages loaded - all completed in base R
 
 # Import dengue dataset
-# CSV file is NOT included on Github
+# dengue_assignment.csv is not included on Github and needs to be put in the same folder as this script
 dengue_data <- read.csv("dengue_assignment.csv")
 
 # Look at first few rows and structure of dataset
